@@ -1,0 +1,12 @@
+*   [33mcb7c0a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m Resolved merge conflict between feature/login and feature/payment
+[31m|[m[32m\[m  
+[31m|[m * [33m5b57d14[m[33m ([m[1;32mfeature/payment[m[33m)[m Payment feature edit
+* [32m|[m [33mf765757[m[33m ([m[1;32mfeature/login[m[33m)[m Login feature edit
+* [32m|[m [33m81ffa13[m Clean reset of README
+* [32m|[m [33m9dc33ac[m Update from feature/payment
+* [32m|[m [33m46ef314[m Update from feature/login
+[32m|[m[32m/[m  
+* [33m2abb63e[m Update from feature/payment
+* [33m1c95983[m[33m ([m[1;32mhotfix/login-bug[m[33m)[m Update from feature/payment
+* [33m4fad9f9[m Update from feature/login
+* [33m1c63b9f[m Hotfix: login bug fix
